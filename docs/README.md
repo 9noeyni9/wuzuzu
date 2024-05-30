@@ -39,7 +39,7 @@
 
 <img  src="https://img.shields.io/badge/stomp-000000?style=for-the-badge&logo=&logoColor=white"><img src="https://img.shields.io/badge/jjwt-97979A?style=for-the-badge&logo=&logoColor=white"><img src="https://img.shields.io/badge/kakao%20openapi-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"><img src="https://img.shields.io/badge/smtp-EA4335?style=for-the-badge&logo=&logoColor=white">
 
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"><img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
 
 <img src="https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
 

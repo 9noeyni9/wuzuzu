@@ -65,7 +65,7 @@
 ## ✅ 주요 기능
 
 ### 🔐 회원가입 및 로그인
-<img src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/2aeceb92-beff-44f8-a543-fda1912fd93a" align="left" width="600" height="300"><br clear="left">
+<img src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/2aeceb92-beff-44f8-a543-fda1912fd93a" align="left" width="450" height="300"><br clear="left">
 
 - **회원가입 시 이메일 인증**
     - 보다 안전한 거래를 위해 사용자 인증 필요

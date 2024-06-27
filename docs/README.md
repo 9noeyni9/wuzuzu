@@ -52,13 +52,13 @@
 
 <details><summary>🛰아키텍쳐</summary>
 
-![wuzuzupng drawio](https://github.com/9noeyni9/manage-my-schedule/assets/111550787/bd21abd4-eccd-401c-aa5d-727a5e681f5e)
+<img width="500"  alt="architecture" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/bd21abd4-eccd-401c-aa5d-727a5e681f5e"><br clear="left">
 
 </details>
 
 <details><summary>⚙ ERD</summary>
-
-![Untitled (2)](https://github.com/9noeyni9/manage-my-schedule/assets/111550787/f565d9ae-9ffe-462e-99f4-e4f8ad01f3dc)
+  
+<img width="500"  alt="erd" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/f565d9ae-9ffe-462e-99f4-e4f8ad01f3dc"><br clear="left">
 
 </details>
 

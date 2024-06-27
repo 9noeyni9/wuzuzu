@@ -19,7 +19,7 @@
   </tbody>
 </table>
 
-## ✅ 기술 스택
+<details><summary>✅ 기술 스택</summary>
 
 ### ✔️ Infra
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -48,10 +48,25 @@
 ### ✔️ Community
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/zep-0078D4?style=for-the-badge&logo=&logoColor=white">
 
+</details>
+
+<details><summary>🛰아키텍쳐</summary>
+
+![wuzuzupng drawio](https://github.com/9noeyni9/manage-my-schedule/assets/111550787/bd21abd4-eccd-401c-aa5d-727a5e681f5e)
+
+</details>
+
+<details><summary>⚙ ERD</summary>
+
+![Untitled (2)](https://github.com/9noeyni9/manage-my-schedule/assets/111550787/f565d9ae-9ffe-462e-99f4-e4f8ad01f3dc)
+
+</details>
 
 ## ✅ 주요 기능
 
 ### 🔐 회원가입 및 로그인
+<img src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/2aeceb92-beff-44f8-a543-fda1912fd93a" align="left" width="600" height="300"><br clear="left">
+
 - **회원가입 시 이메일 인증**
     - 보다 안전한 거래를 위해 사용자 인증 필요
     - 보안 측면 고려해 SMTP 587 port 이용
@@ -62,23 +77,28 @@
     - 인 메모리 방식인 Redis를 활용해 속도 개선 및 관리 용이
 
 ### 🗺 지도
+<img src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/76d82379-b53c-4e9f-9c36-8157d1d35c3d" align="left" width="500" height="300"><br clear="left"></div>
 - 외부 API 이용해 정보 조회하도록 구현
   - KAKAO API, GeolocationAPI 사용  
 
 ### 💬 채팅
+<img width="500"  alt="chat" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/b589d311-de81-46df-a79d-defe987a8d6c"><br clear="left">
 - 정보 공유 가능하도록 양방향 채팅 구현
     - 과부하 없이 양방향 통신 가능하도록 WebSocket으로 구현
     - 메시지 전송의 안정성 및 효율성을 높이기 위해 STOMP 사용
 
 ### 😀 마이페이지
+<img src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/462e50a3-a082-4662-ab91-2b9adb6339c8" align="left" width="500" height="300"><br clear="left">
 - 사용자 정보 확인 및 수정 가능
 - 즐겨찾기 목록 확인 가능
 
 ### 🚩 스팟 조회
+<img width="500" alt="스팟조회" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/acd077d1-06ba-40d9-aad9-fdd55b800d12"><img width="350" alt="스팟조회" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/32fdcf41-265d-4138-a2c9-1cdd3b7d99e6">
 - 스팟 조회 시 API 호출 빈도 줄이기 위해 Redis를 활용한 캐싱 처리
     - 기존 방법보다 빠른 검색 및 낮은 서버 비용, 과부하 예방
 
 ### 🚚 용품 거래
+<img width="500"  alt="trade" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/e3b1458f-ae49-4c51-9884-c67cca7a4279"><br clear="left">
 - 거래의 재고 관리와 결제의 안정성 보장을 위한 동시성 제어
     - 서버의 안정성 및 확장성을 고려 : Redis 방식 → SQS FIFO 대기열 사용 방식
     - Jmeter : 1초에 1000번의 요청을 5번 전송
@@ -95,6 +115,7 @@
     - 정적 리소스들을 외부에 저장소로 관리
 
 ### 📄 커뮤니티
+<img width="500"  alt="post" src="https://github.com/9noeyni9/manage-my-schedule/assets/111550787/929ec972-6ed9-45d4-9c8e-35d256697ac3"><br clear="left">
 - **검색 성능 개선**
     - 검색이 많은 커뮤니티와 거래에 성능 개선을 위한 Elasticsearch 도입
     - 게시물 조회 속도 향상 및 오타 처리
